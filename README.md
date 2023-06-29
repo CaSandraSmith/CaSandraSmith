@@ -10,12 +10,30 @@
 
 I am a full-stack software developer skilled in JavaScript, Python, React and countless other technologies which can be seen the variety of projects pinned to my profile! These skills have been developed from hardwork, dedication, a lot of provate study, and the help of App Academy coding boot camp from which I am a recent graduate of. I am currently looking for a position as a fullstask software engineer and would love to connect and talk about the field.
 
+email: casresm3@gmail.com
+
+<div>
+  <a href="https://www.linkedin.com/in/casandra-smith/" target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+</div>
+
 ### :computer: **My Tech Stack**
+
+<div>
+    <img src="https://img.shields.io/badge/Javascript-yellow?logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3473a3?logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/React-61dbfb?logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/SQL-db7533?logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/HTML-eb612d?logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/CSS-2965f1?logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Redux-764abc?logoColor=white&style=flat-square" />
+</div>
 
 ### ⚡**Fun Facts about me**
 - I love to read!
 - In the battle of Marvel vs DC, I pick Marvel (I was raised on DC though :see_no_evil: )
-- Traveling is another one of my passions, but I haven't been able to do much of it recently
+- Traveling is another one of my passions, but I haven't been able to do much of it recently. I actually worked as a corporate travel agent prior to bootcamp!
 - I love detective shows (some of my favorites are Psych, Monk, and Murder, She Wrote)
 
 <div id="header" align="center">
