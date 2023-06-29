@@ -1,4 +1,27 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/60763efeb30be37d8e58a9c9/1618381649730-KHJRHMCTXALO1V36GALR/giphy.gif" width="100"/>
+</div>
+
+
+
+### **Hi, I'm Ca'Sandra!** :wave: :sparkles: 
+
+![ezgif com-resize](https://github.com/CaSandraSmith/CaSandraSmith/assets/123069069/2042b3f9-1e4b-4e08-9d4e-e6c7f318377d)
+
+I am a full-stack software developer skilled in JavaScript, Python, React and countless other technologies which can be seen the variety of projects pinned to my profile! These skills have been developed from hardwork, dedication, a lot of provate study, and the help of App Academy coding boot camp from which I am a recent graduate of. I am currently looking for a position as a fullstask software engineer and would love to connect and talk about the field.
+
+### :computer: **My Tech Stack**
+
+### ⚡**Fun Facts about me**
+- I love to read!
+- In the battle of Marvel vs DC, I pick Marvel (I was raised on DC though :see_no_evil: )
+- Traveling is another one of my passions, but I haven't been able to do much of it recently
+- I love detective shows (some of my favorites are Psych, Monk, and Murder, She Wrote)
+
+<div id="header" align="center">
+  <img src="https://github.com/CaSandraSmith/CaSandraSmith/assets/123069069/92db2e36-99c9-4aa7-88a7-b696544c8aa1" width="600"/>
+</div>
+
 
 <!--
 **CaSandraSmith/CaSandraSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
