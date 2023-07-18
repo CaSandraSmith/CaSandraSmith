@@ -16,6 +16,9 @@ email: casresm3@gmail.com
   <a href="https://www.linkedin.com/in/casandra-smith/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
+  <a href="https://casandrasmith.github.io/" target="_blank" >
+    <img src="https://img.shields.io/badge/Portfolio-FF5F1F?logoColor=white&style=flat-square" />
+  </a>
 </div>
 
 ### :computer: **My Tech Stack**
