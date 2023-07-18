@@ -36,7 +36,8 @@ email: casresm3@gmail.com
 - Traveling is another one of my passions, but I haven't been able to do much of it recently. I actually worked as a corporate travel agent prior to bootcamp!
 - I love detective shows (some of my favorites are Psych, Monk, and Murder, She Wrote)
 
-
+### 📍 **Location**
+- I'm from Charleston, WV, but I hope to relocate soon
 
 ![Github outro (18 × 4 in) (1)](https://github.com/CaSandraSmith/CaSandraSmith/assets/123069069/aca803d5-b056-4261-b1fc-7321073026de)
 
