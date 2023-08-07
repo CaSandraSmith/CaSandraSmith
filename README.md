@@ -8,7 +8,7 @@
 
 ![ezgif com-resize](https://github.com/CaSandraSmith/CaSandraSmith/assets/123069069/2042b3f9-1e4b-4e08-9d4e-e6c7f318377d)
 
-I am a full-stack software developer skilled in JavaScript, Python, React and countless other technologies which can be seen the variety of projects pinned to my profile! These skills have been developed from hardwork, dedication, a lot of private study, and the help of App Academy coding boot camp from which I am a recent graduate of. I am currently looking for a position as a fullstask software engineer and would love to connect and talk about the field.
+I am a full-stack software developer skilled in JavaScript, Python, React and countless other technologies which can be seen the variety of projects pinned to my profile! These skills have been developed from hardwork, dedication, a lot of private study, and the help of App Academy coding boot camp from which I am a recent graduate of. I am currently looking for a position as a fullstask software engineer and would love to connect and talk about the field. 
 
 email: casresm3@gmail.com
 
