@@ -4,7 +4,7 @@
 
 
 
-### **Hi, I'm Ca'Sandra!** :wave: :sparkles: 
+### **Hi, I'm Ca'Sandra!!** :wave: :sparkles: 
 
 ![ezgif com-resize](https://github.com/CaSandraSmith/CaSandraSmith/assets/123069069/2042b3f9-1e4b-4e08-9d4e-e6c7f318377d)
 
