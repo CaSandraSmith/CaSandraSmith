@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://images.squarespace-cdn.com/content/v1/60763efeb30be37d8e58a9c9/1618381649730-KHJRHMCTXALO1V36GALR/giphy.gif" width="100"/>
 </div>
 
