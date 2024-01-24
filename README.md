@@ -44,7 +44,7 @@ email: casresm3@gmail.com
 - I love detective shows (some of my favorites are Psych, Monk, and Murder, She Wrote)
 
 ### 📍 **Location**
-- I'm from Charleston, WV, but I hope to relocate soon
+- I'm from Charleston, WV!
 
 ![Github outro (18 × 4 in) (1)](https://github.com/CaSandraSmith/CaSandraSmith/assets/123069069/aca803d5-b056-4261-b1fc-7321073026de)
 
