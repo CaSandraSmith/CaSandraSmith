@@ -41,7 +41,7 @@ email: casresm3@gmail.com
 - I love to read!
 - In the battle of Marvel vs DC, I pick Marvel (I was raised on DC though :see_no_evil: )
 - Traveling is another one of my passions, but I haven't been able to do much of it recently. I actually worked as a corporate travel agent prior to bootcamp!
-- I love detective shows (some of my favorites are Psych, Monk, and Murder, She Wrote)
+- I love detective shows (some of my favorites are Death in Paradise, Psych, Monk, and Murder, She Wrote)
 
 ### 📍 **Location**
 - I'm from Charleston, WV!
